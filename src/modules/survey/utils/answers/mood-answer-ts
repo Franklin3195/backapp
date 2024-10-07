@@ -1,0 +1,45 @@
+export const moodAnswers = {
+  respuesta1: ` Es normal que en la vida haya momentos en los que se encuentre más
+      desanimado, no obstante, eso no significa que usted esté deprimido. Revise
+      su forma de pensar y utilice las herramientas adecuadas para vencer dichas
+      adversidades. Aquí es muy imprescindible autoanalizarse y revisar
+      minusiosamente nuestro aspecto intencional y emocional, es muy
+      recomendable trabajar la fortaleza de la aceptación y hacer un uso
+      favorable, adecuado y equilibrado de ella ayudará también. Nadie está
+      exento de experimentar alguna experiencia difícil en su vida personal o
+      laboral, esto es lo que precisamente nos hace humanos. Todas estas
+      situaciones, al no ser orientadas de una forma saludable, pueden afectar
+      la salud mental y emocional influyendo directamente en el rendimiento
+      laboral. Por este motivo, te recomendamos apoyarte en manos de expertos
+      para diseñar un programa de prevención, promoción e intervención hecho a
+      la medida de tu empresa para acompañar y orientar este tipo de procesos
+      desde un enfoque apreciativo y constructivo.`,
+  respuesta2: `Usted podría beneficiarse de la ayuda de un profesional para recuperar el
+      optimismo y entrenarse en técnicas eficaces de solución de problemas. Es
+      clara la importancia de la orientación positiva hacia el beneficio de
+      cualquier problema, es la disposición a evaluar los problemas como
+      resolubles. Es decir, conlleva una visión positiva y constructiva de los
+      inconvenientes, afrontarlos como desafíos, con expectativas positivas de
+      poder resolverlos, con autoconfianza y percepción de autoeficacia.
+      Asimismo, presupone la determinación para implicarse activamente, para
+      destinar tiempo, esfuerzo y persistencia para resolver el problema. Esa es
+      una de las funciones de los psicólogos, orientarte y contribuir a que
+      adquieras estas valiosas herramientas psicológicas y mejores tus
+      habilidades y recursos para aprender a afrontar las dificultades y
+      solucionar los problemas a los que te enfrente la vida.`,
+  respuesta3: `Ha perdido la esperanza en el futuro y no es capaz de encontrar fuerzas
+      para seguir adelante. Puede recuperar su motivación y superar este
+      problema si trabaja en equipo con un especialista. Estas personas
+      presentan una percepción de amenaza continua, una desesperanza agonizante
+      casi continua a su autoestima, eligiendo la acción como estrategia de
+      enfrentamiento a sus problemas. Tienen tendencia a la dominación, una
+      profunda inclinación a competir y una elevada agresividad que les induce a
+      vivir en un constante estado de lucha. Pueden desarrollar enfermedades más
+      frecuentes en estos sujetos que son las de tipo psicosomáticos y síndromes
+      de ansiedad generalizada. Deberías relajarte y tomarte las cosas con más
+      filosofía, pues tienes mayor peligro de padecer enfermedades coronarias,
+      problemas psicosomáticos y estados de ansiedad. En este proceso, se hace
+      estrictamente necesario la asistencia urgente con un profesional de la
+      salud mental, para buscar las mejoras a tu bienestar emocional y
+      comportamental.`
+}

@@ -1,0 +1,55 @@
+{
+    "cSpell.words": [
+      "appyudame",
+      "AppYudame",
+      "automerge",
+      "AWSSDK",
+      "chatai",
+      "copyfiles",
+      "cqrs",
+      "CURDATE",
+      "dtos",
+      "fieldname",
+      "forbiden",
+      "handfish",
+      "hygen",
+      "Injectable",
+      "Inno",
+      "jwks",
+      "libphonenumber",
+      "Metadatas",
+      "microservices",
+      "MySql",
+      "NATS",
+      "nestjs",
+      "ormconfig",
+      "paramtypes",
+      "pino",
+      "postbuild",
+      "presigner",
+      "sonarjs",
+      "tinyint",
+      "Townhome",
+      "typeorm",
+      "vitepress",
+      "websockets"
+    ],
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "editor.detectIndentation": false,
+    "rest-client.environmentVariables": {
+        "$shared": {},
+        "local": {
+            "baseURL": "http://127.0.0.1:80",
+            "token": "<replace-token>"
+        },
+        "develop": {
+            "baseURL": "https://api.dev.appyudame.com",
+            "token": "<replace-token>"
+        },
+        "test": {
+            "baseURL": "https://api.test.appyudame.com/",
+            "token": "<replace-token>"
+        },
+    },
+    "git-blame.gitWebUrl": ""
+}
